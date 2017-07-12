@@ -1,0 +1,751 @@
+<div class="reviewSelector " id="review_259278151">
+<div class="review basic_review inlineReviewUpdate provider0 first newFlag">
+<div class="col1of2">
+<div class="member_info">
+<div class="memberOverlayLink" id="UID_D2FBB0BB939BED961CC1FB7DA7975E09-SRC_259278151" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
+<div class="avatar profile_D2FBB0BB939BED961CC1FB7DA7975E09 ">
+<a onclick="">
+<img class="avatar potentialFacebookAvatar avatarGUID:D2FBB0BB939BED961CC1FB7DA7975E09" height="74" id="lazyload_1669443148_1" width="74"/>
+</a>
+</div>
+<div class="username mo">
+<span class="expand_inline scrname hvrIE6 mbrName_D2FBB0BB939BED961CC1FB7DA7975E09" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">Gilles V</span>
+</div>
+</div>
+<div class="location">
+Kuala Lumpur, Malaysia
+</div>
+</div>
+<div class="memberBadging">
+<div class="totalReviewBadge badge no_cpu" id="UID_D2FBB0BB939BED961CC1FB7DA7975E09-CONT" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
+<div class="reviewerTitle">Senior Contributor</div>
+<img alt="49 reviews" class="icon lazy badge_srcontributor sprite-badge_srcontributor" height="24" id="lazyload_1669443148_2" width="25"/>
+<span class="badgeText">49 reviews</span>
+<div class="contributionReviewBadge">
+<img alt="" class="icon lazy badge_hotels_3rd sprite-badge_hotels_3rd" height="24" id="lazyload_1669443148_3" width="25"/>
+<span class="badgeText">27 hotel reviews</span>
+</div> </div>
+<div class="helpfulVotesBadge badge no_cpu" id="UID_D2FBB0BB939BED961CC1FB7DA7975E09-HV" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
+<img alt="28 helpful votes" class="icon lazy badge_helpful sprite-badge_helpful" height="24" id="lazyload_1669443148_4" width="25"/>
+<span class="badgeText">28 helpful votes</span>
+</div>
+</div>
+</div>
+<div class="col2of2">
+<div class="innerBubble">
+<div class="wrap">
+<div class="quote isNew">
+<a href="/ShowUserReviews-g294265-d1770798-r259278151-Marina_Bay_Sands-Singapore.html#CHECK_RATES_CONT" id="rn259278151" onclick="ta.setEvtCookie('Reviews','title','',0,this.href); ta.util.cookie.setPIDCookie('2246')">“<span class="noQuotes">FAMOUS HOTEL AT SINGAPORE!!!</span>”</a>
+</div>
+<div class="rating reviewItemInline">
+<span class="rate sprite-rating_s rating_s">
+<img alt="5 of 5 stars" class="sprite-rating_s_fill rating_s_fill s50" src="http://e2.tacdn.com/img2/x.gif">
+</img></span>
+<span class="ratingDate relativeDate" title="14 March 2015">Reviewed yesterday
+<span class="new">NEW</span>
+</span>
+</div>
+<div class="entry">
+<p class="partial_entry">
+Roof pool is amazing. View is fantastic!!,food is fantastic either for breakfast or lunch or dinner. The rooms are very confortable and beautiful! Next time I will go to Singapore , I will stay again in the splendid hotel!!
+</p>
+</div>
+<div class="wrap">
+<div class="helpful " id="helpfulq259278151_collapsed">
+<span class="isHelpful">Was this review helpful?</span>
+<span class="tgt_helpfulq259278151 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1GII26mbqgqguuuxizSxiniaxityqgqWQQoqnQQeVsSVuqHyXAdX3oqHMUkkKkAvqHxfqHDJESCJQQoqnQQ7JgQQoqnQQhJCMtqHhSCyJ2iEVxiGIac6XoXmqoTpcXoAXkvUoU0tEn1XoAXkvUoU0zH1XAdX3o0pSM1xMXqn77K77AmA7zsxMA3UffUqn7kxMbkAkozsKA0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span>
+</div>
+<div class="wrap reportProblem">
+<span class="problem collapsed taLnk" id="ReportIAP_259278151" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '259278151'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
+<span class="hidden ulBlueLinks">Problem with this review?</span>
+<img alt="" height="14" id="lazyload_1669443148_5" width="13"/>
+</span>
+</div> </div>
+</div>
+</div> </div> </div>
+</div>
+<div class="reviewSelector " id="review_259268412">
+<div class="review basic_review inlineReviewUpdate provider0 newFlag">
+<div class="col1of2">
+<div class="member_info">
+<div class="memberOverlayLink" id="UID_EBAE4CAE16F2577ABAE8D66ED3625DA5-SRC_259268412" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
+<div class="avatar profile_EBAE4CAE16F2577ABAE8D66ED3625DA5 ">
+<a onclick="">
+<img class="avatar potentialFacebookAvatar avatarGUID:EBAE4CAE16F2577ABAE8D66ED3625DA5" height="74" id="lazyload_1669443148_6" width="74"/>
+</a>
+</div>
+<div class="username mo">
+<span class="expand_inline scrname hvrIE6 mbrName_EBAE4CAE16F2577ABAE8D66ED3625DA5" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">nabinhait</span>
+</div>
+</div>
+<div class="location">
+Mumbai (Bombay), India
+</div>
+</div>
+<div class="memberBadging">
+<div class="totalReviewBadge badge no_cpu" id="UID_EBAE4CAE16F2577ABAE8D66ED3625DA5-CONT" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -25, -50);">
+<span class="badgeText">1 review</span>
+</div>
+</div>
+</div>
+<div class="col2of2">
+<div class="innerBubble">
+<div class="wrap">
+<div class="quote isNew">
+<a href="/ShowUserReviews-g294265-d1770798-r259268412-Marina_Bay_Sands-Singapore.html#CHECK_RATES_CONT" id="rn259268412" onclick="ta.setEvtCookie('Reviews','title','',0,this.href); ta.util.cookie.setPIDCookie('2246')">“<span class="noQuotes">Simply superb! Enjoyed a lot :)</span>”</a>
+</div>
+<div class="rating reviewItemInline">
+<span class="rate sprite-rating_s rating_s">
+<img alt="5 of 5 stars" class="sprite-rating_s_fill rating_s_fill s50" src="http://e2.tacdn.com/img2/x.gif">
+</img></span>
+<span class="ratingDate relativeDate" title="14 March 2015">Reviewed yesterday
+<span class="new">NEW</span>
+</span>
+</div>
+<div class="entry">
+<p class="partial_entry">
+Staying at this amazing hotel last week on my business trip for 2 nights. Roof top infinity pool is simply superb, relaxing and what a great view from the pool side. Room was really nice with a attached mini bar :) One of the most popular tourist place "Garden by the bay" is just behind the hotel, which I could...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259268412 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259268412', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+<div class="media thumbCols3">
+<div class="thumbnails">
+<div class="photosInline">
+<ul>
+<li class=" ThumbNailContainer">
+<span class="u_/LocationPhotoDirectLink-g294265-d1770798-i126036425-r259268412-Marina_Bay_Sands-Singapore.html#126036425 fkASDF" onclick="ta.trackEventOnPage('Reviews','user_photo','image');ta.util.cookie.setPIDCookie(5042); return ta.call('ta.overlays.Factory.albumsLB', event, this, 1770798, 294265, 2, 126036425);">
+<img alt="" class="reviewInlineImage" height="50" id="lazyload_1669443148_7" src="http://e2.tacdn.com/img2/x.gif" width="50"/> </span>
+</li>
+<li class=" ThumbNailContainer">
+<span class="u_/LocationPhotoDirectLink-g294265-d1770798-i126036380-r259268412-Marina_Bay_Sands-Singapore.html#126036380 fkASDF" onclick="ta.trackEventOnPage('Reviews','user_photo','image');ta.util.cookie.setPIDCookie(5042); return ta.call('ta.overlays.Factory.albumsLB', event, this, 1770798, 294265, 2, 126036380);">
+<img alt="" class="reviewInlineImage" height="50" id="lazyload_1669443148_8" src="http://e2.tacdn.com/img2/x.gif" width="50"/> </span>
+</li>
+<li class=" ThumbNailContainer">
+<span class="u_/LocationPhotoDirectLink-g294265-d1770798-i126036403-r259268412-Marina_Bay_Sands-Singapore.html#126036403 fkASDF" onclick="ta.trackEventOnPage('Reviews','user_photo','image');ta.util.cookie.setPIDCookie(5042); return ta.call('ta.overlays.Factory.albumsLB', event, this, 1770798, 294265, 2, 126036403);">
+<img alt="" class="reviewInlineImage" height="50" id="lazyload_1669443148_9" src="http://e2.tacdn.com/img2/x.gif" width="50"/> </span>
+</li>
+<li class=" ThumbNailContainer">
+<span class="u_/LocationPhotoDirectLink-g294265-d1770798-i126036318-r259268412-Marina_Bay_Sands-Singapore.html#126036318 fkASDF" onclick="ta.trackEventOnPage('Reviews','user_photo','image');ta.util.cookie.setPIDCookie(5042); return ta.call('ta.overlays.Factory.albumsLB', event, this, 1770798, 294265, 2, 126036318);">
+<img alt="" class="reviewInlineImage" height="50" id="lazyload_1669443148_10" src="http://e2.tacdn.com/img2/x.gif" width="50"/> </span>
+</li>
+</ul>
+</div> </div> </div>
+<div class="wrap">
+<div class="helpful " id="helpfulq259268412_collapsed">
+<span class="isHelpful">Was this review helpful?</span>
+<span class="tgt_helpfulq259268412 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1GII26mbqgqguuuxizSxiniaxityqgqWQQoqnQQeVsSVuqHyXAdX3oqHMUkkKkAvqHxfqHDJESCJQQoqnQQ7JgQQoqnQQhJCMtqHhSCyJ2iEVxiGIac6XoXmqoTpcXoAX3vdUX0tEn1XoAX3vdUX0zH1XAdX3o0pSM1zs7bzsdfbzsU3qnXokkb7bzsvxM33zsxMm3XoxMbo0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span>
+</div>
+<div class="wrap reportProblem">
+<span class="problem collapsed taLnk" id="ReportIAP_259268412" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '259268412'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
+<span class="hidden ulBlueLinks">Problem with this review?</span>
+<img alt="" height="14" id="lazyload_1669443148_11" width="13"/>
+</span>
+</div> </div>
+</div>
+</div> </div> </div>
+</div>
+<div class="reviewSelector " id="review_259260060">
+<div class="review basic_review inlineReviewUpdate provider0 newFlag">
+<div class="col1of2">
+<div class="member_info">
+<div class="memberOverlayLink" id="UID_47E46713968CF46CB44B7D559D3E5397-SRC_259260060" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
+<div class="avatar profile_47E46713968CF46CB44B7D559D3E5397 ">
+<a onclick="">
+<img class="avatar potentialFacebookAvatar avatarGUID:47E46713968CF46CB44B7D559D3E5397" height="74" id="lazyload_1669443148_12" width="74"/>
+</a>
+</div>
+<div class="username mo">
+<span class="expand_inline scrname hvrIE6 mbrName_47E46713968CF46CB44B7D559D3E5397" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">zoukersg</span>
+</div>
+</div>
+<div class="location">
+</div>
+</div>
+<div class="memberBadging">
+<div class="totalReviewBadge badge no_cpu" id="UID_47E46713968CF46CB44B7D559D3E5397-CONT" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
+<div class="reviewerTitle">Senior Contributor</div>
+<img alt="27 reviews" class="icon lazy badge_srcontributor sprite-badge_srcontributor" height="24" id="lazyload_1669443148_13" width="25"/>
+<span class="badgeText">27 reviews</span>
+<div class="contributionReviewBadge">
+<img alt="" class="icon lazy badge_hotels_3rd sprite-badge_hotels_3rd" height="24" id="lazyload_1669443148_14" width="25"/>
+<span class="badgeText">26 hotel reviews</span>
+</div> </div>
+<div class="helpfulVotesBadge badge no_cpu" id="UID_47E46713968CF46CB44B7D559D3E5397-HV" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
+<img alt="16 helpful votes" class="icon lazy badge_helpful sprite-badge_helpful" height="24" id="lazyload_1669443148_15" width="25"/>
+<span class="badgeText">16 helpful votes</span>
+</div>
+</div>
+</div>
+<div class="col2of2">
+<div class="innerBubble">
+<div class="wrap">
+<div class="quote isNew">
+<a href="/ShowUserReviews-g294265-d1770798-r259260060-Marina_Bay_Sands-Singapore.html#CHECK_RATES_CONT" id="rn259260060" onclick="ta.setEvtCookie('Reviews','title','',0,this.href); ta.util.cookie.setPIDCookie('2246')">“<span class="noQuotes">Yet another staycation</span>”</a>
+</div>
+<div class="rating reviewItemInline">
+<span class="rate sprite-rating_s rating_s">
+<img alt="5 of 5 stars" class="sprite-rating_s_fill rating_s_fill s50" src="http://e2.tacdn.com/img2/x.gif">
+</img></span>
+<span class="ratingDate relativeDate" title="13 March 2015">Reviewed yesterday
+<span class="new">NEW</span>
+</span>
+</div>
+<div class="entry">
+<p class="partial_entry">
+Stay at their 2 different suite for two nights with my family. Given the suite at 50+ levels and free pool access anytime of the day. Complimentary hi tea and evening cocktail for two.
+Good food, good surroundings and awesome scenery at night. It was certainly a memorable night for all of us. Shopping was easy and effortless. Connecting the...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259260060 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259260060', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+<div class="wrap">
+<div class="helpful " id="helpfulq259260060_collapsed">
+<span class="isHelpful">Was this review helpful?</span>
+<span class="tgt_helpfulq259260060 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1GII26mbqgqguuuxizSxiniaxityqgqWQQoqnQQeVsSVuqHyXAdX3oqHMUkkKkAvqHxfqHDJESCJQQoqnQQ7JgQQoqnQQhJCMtqHhSCyJ2iEVxiGIac6XoXmqoTpcXoAX3KK3K0tEn1XoAX3KK3K0zH1XAdX3o0pSM1dkzsd3kUmA3vfqnd3f7dd7kxMooAxMmzsomAk0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span>
+</div>
+<div class="wrap reportProblem">
+<span class="problem collapsed taLnk" id="ReportIAP_259260060" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '259260060'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
+<span class="hidden ulBlueLinks">Problem with this review?</span>
+<img alt="" height="14" id="lazyload_1669443148_16" width="13"/>
+</span>
+</div> </div>
+</div>
+</div> </div> </div>
+</div>
+<div class="reviewSelector " id="review_259218523">
+<div class="review basic_review inlineReviewUpdate provider0 newFlag">
+<div class="col1of2">
+<div class="member_info">
+<div class="memberOverlayLink" id="UID_1DF15A8D3963FCD67492A779D5E37DFF-SRC_259218523" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
+<div class="avatar profile_1DF15A8D3963FCD67492A779D5E37DFF ">
+<a onclick="">
+<img class="avatar potentialFacebookAvatar avatarGUID:1DF15A8D3963FCD67492A779D5E37DFF" height="74" id="lazyload_1669443148_17" width="74"/>
+</a>
+</div>
+<div class="username mo">
+<span class="expand_inline scrname hvrIE6 mbrName_1DF15A8D3963FCD67492A779D5E37DFF" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">SueTerpilowski</span>
+</div>
+</div>
+<div class="location">
+London, United Kingdom
+</div>
+</div>
+<div class="memberBadging">
+<div class="totalReviewBadge badge no_cpu" id="UID_1DF15A8D3963FCD67492A779D5E37DFF-CONT" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
+<div class="reviewerTitle">Reviewer</div>
+<img alt="5 reviews" class="icon lazy badge_reviewer sprite-badge_reviewer" height="24" id="lazyload_1669443148_18" width="25"/>
+<span class="badgeText">5 reviews</span>
+<div class="contributionReviewBadge">
+<img alt="" class="icon lazy badge_hotels_1st sprite-badge_hotels_1st" height="24" id="lazyload_1669443148_19" width="25"/>
+<span class="badgeText">3 hotel reviews</span>
+</div> </div>
+<div class="helpfulVotesBadge badge no_cpu" id="UID_1DF15A8D3963FCD67492A779D5E37DFF-HV" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
+<img alt="4 helpful votes" class="icon lazy badge_helpful sprite-badge_helpful" height="24" id="lazyload_1669443148_20" width="25"/>
+<span class="badgeText">4 helpful votes</span>
+</div>
+</div>
+</div>
+<div class="col2of2">
+<div class="innerBubble">
+<div class="wrap">
+<div class="quote isNew">
+<a href="/ShowUserReviews-g294265-d1770798-r259218523-Marina_Bay_Sands-Singapore.html#CHECK_RATES_CONT" id="rn259218523" onclick="ta.setEvtCookie('Reviews','title','',0,this.href); ta.util.cookie.setPIDCookie('2246')">“<span class="noQuotes">2015 business trip</span>”</a>
+</div>
+<div class="rating reviewItemInline">
+<span class="rate sprite-rating_s rating_s">
+<img alt="4 of 5 stars" class="sprite-rating_s_fill rating_s_fill s40" src="http://e2.tacdn.com/img2/x.gif">
+</img></span>
+<span class="ratingDate relativeDate" title="13 March 2015">Reviewed yesterday
+<span class="new">NEW</span>
+</span>
+</div>
+<div class="entry">
+<p class="partial_entry">
+Stayed in one of their club rooms and it was of a good standard. Only used the Club room which is really a restaurant for breakfast, which was very good and the staff fantastic. In fact all the staff were very helpful and always very welcoming and charming. Very large hotel so not for a romantic stay. Infinite pool 57th...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259218523 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259218523', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+<div class="wrap">
+<div class="helpful " id="helpfulq259218523_collapsed">
+<span class="isHelpful">Was this review helpful?</span>
+<span class="tgt_helpfulq259218523 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1GII26mbqgqguuuxizSxiniaxityqgqWQQoqnQQeVsSVuqHyXAdX3oqHMUkkKkAvqHxfqHDJESCJQQoqnQQ7JgQQoqnQQhJCMtqHhSCyJ2iEVxiGIac6XoXmqoTpcXoAXUvoXm0tEn1XoAXUvoXm0zH1XAdX3o0pSM1UxMqnUobvxMmA3mqnfxM3kdAXbkkAxMozsmkxMqnqn0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span>
+</div>
+<div class="wrap reportProblem">
+<span class="problem collapsed taLnk" id="ReportIAP_259218523" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '259218523'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
+<span class="hidden ulBlueLinks">Problem with this review?</span>
+<img alt="" height="14" id="lazyload_1669443148_21" width="13"/>
+</span>
+</div> </div>
+</div>
+</div> </div> </div>
+</div>
+<div class="reviewSelector " id="review_259197773">
+<div class="review basic_review inlineReviewUpdate provider0 newFlag">
+<div class="col1of2">
+<div class="member_info">
+<div class="memberOverlayLink" id="UID_C5C626B3CC725DE13EAFE9AB7F7CB27B-SRC_259197773" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
+<div class="avatar profile_C5C626B3CC725DE13EAFE9AB7F7CB27B ">
+<a onclick="">
+<img class="avatar potentialFacebookAvatar avatarGUID:C5C626B3CC725DE13EAFE9AB7F7CB27B" height="74" id="lazyload_1669443148_22" width="74"/>
+</a>
+</div>
+<div class="username mo">
+<span class="expand_inline scrname hvrIE6 mbrName_C5C626B3CC725DE13EAFE9AB7F7CB27B" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">vancutie</span>
+</div>
+</div>
+<div class="location">
+New York City, New York
+</div>
+</div>
+<div class="memberBadging">
+<div class="totalReviewBadge badge no_cpu" id="UID_C5C626B3CC725DE13EAFE9AB7F7CB27B-CONT" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
+<div class="reviewerTitle">Senior Contributor</div>
+<img alt="21 reviews" class="icon lazy badge_srcontributor sprite-badge_srcontributor" height="24" id="lazyload_1669443148_23" width="25"/>
+<span class="badgeText">21 reviews</span>
+<div class="contributionReviewBadge">
+<img alt="" class="icon lazy badge_hotels_2nd sprite-badge_hotels_2nd" height="24" id="lazyload_1669443148_24" width="25"/>
+<span class="badgeText">16 hotel reviews</span>
+</div> </div>
+<div class="helpfulVotesBadge badge no_cpu" id="UID_C5C626B3CC725DE13EAFE9AB7F7CB27B-HV" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
+<img alt="48 helpful votes" class="icon lazy badge_helpful sprite-badge_helpful" height="24" id="lazyload_1669443148_25" width="25"/>
+<span class="badgeText">48 helpful votes</span>
+</div>
+</div>
+</div>
+<div class="col2of2">
+<div class="innerBubble">
+<div class="wrap">
+<div class="quote isNew">
+<a href="/ShowUserReviews-g294265-d1770798-r259197773-Marina_Bay_Sands-Singapore.html#CHECK_RATES_CONT" id="rn259197773" onclick="ta.setEvtCookie('Reviews','title','',0,this.href); ta.util.cookie.setPIDCookie('2246')">“<span class="noQuotes">Amazing views</span>”</a>
+</div>
+<div class="rating reviewItemInline">
+<span class="rate sprite-rating_s rating_s">
+<img alt="5 of 5 stars" class="sprite-rating_s_fill rating_s_fill s50" src="http://e2.tacdn.com/img2/x.gif">
+</img></span>
+<span class="ratingDate relativeDate" title="13 March 2015">Reviewed yesterday
+<span class="new">NEW</span>
+</span>
+</div>
+<div class="entry">
+<p class="partial_entry">
+Amazing hotel. Was greeted warmly and check in was a breeze.
+The staff is friendly and helpful. Hotel is very clean and modern. Lovely views, especially from the infinity pool. The gym was great with nice views as well. Drinks in the hotel can be pricey, but overall alcohol is very expensive in Singapore.
+Overall, had a great experience and...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259197773 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259197773', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+<div class="wrap">
+<div class="helpful " id="helpfulq259197773_collapsed">
+<span class="isHelpful">Was this review helpful?</span>
+<span class="tgt_helpfulq259197773 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1GII26mbqgqguuuxizSxiniaxityqgqWQQoqnQQeVsSVuqHyXAdX3oqHMUkkKkAvqHxfqHDJESCJQQoqnQQ7JgQQoqnQQhJCMtqHhSCyJ2iEVxiGIac6XoXmqoTpcXoAUAkkkm0tEn1XoAUAkkkm0zH1XAdX3o0pSM1fof3X37mffkXoxMzsUmzsbqnzsAb7kqnkf7Xk70EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span>
+<span class="sprite-grayArrowLeft"></span>
+<span class="numHlp"><span class="numHlpIn">1</span></span>
+</div>
+<div class="wrap reportProblem">
+<span class="problem collapsed taLnk" id="ReportIAP_259197773" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '259197773'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
+<span class="hidden ulBlueLinks">Problem with this review?</span>
+<img alt="" height="14" id="lazyload_1669443148_26" width="13"/>
+</span>
+</div> </div>
+</div>
+</div> </div> </div>
+</div>
+<div class="reviewSelector " id="review_259180937">
+<div class="review basic_review inlineReviewUpdate provider0 newFlag">
+<div class="col1of2">
+<div class="member_info">
+<div class="memberOverlayLink" id="UID_3A111A653CAF6FCD9DEC88C8E000BD39-SRC_259180937" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
+<div class="avatar profile_3A111A653CAF6FCD9DEC88C8E000BD39 ">
+<a onclick="">
+<img class="avatar potentialFacebookAvatar avatarGUID:3A111A653CAF6FCD9DEC88C8E000BD39" height="74" id="lazyload_1669443148_27" width="74"/>
+</a>
+</div>
+<div class="username mo">
+<span class="expand_inline scrname hvrIE6 mbrName_3A111A653CAF6FCD9DEC88C8E000BD39" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">laksandbeer</span>
+</div>
+</div>
+<div class="location">
+</div>
+</div>
+<div class="memberBadging">
+<div class="totalReviewBadge badge no_cpu" id="UID_3A111A653CAF6FCD9DEC88C8E000BD39-CONT" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -25, -50);">
+<span class="badgeText">1 review</span>
+</div>
+</div>
+</div>
+<div class="col2of2">
+<div class="innerBubble">
+<div class="wrap">
+<div class="quote isNew">
+<a href="/ShowUserReviews-g294265-d1770798-r259180937-Marina_Bay_Sands-Singapore.html#CHECK_RATES_CONT" id="rn259180937" onclick="ta.setEvtCookie('Reviews','title','',0,this.href); ta.util.cookie.setPIDCookie('2246')">“<span class="noQuotes">So excited </span>”</a>
+</div>
+<div class="rating reviewItemInline">
+<span class="rate sprite-rating_s rating_s">
+<img alt="5 of 5 stars" class="sprite-rating_s_fill rating_s_fill s50" src="http://e2.tacdn.com/img2/x.gif">
+</img></span>
+<span class="ratingDate relativeDate" title="13 March 2015">Reviewed 2 days ago
+<span class="new">NEW</span>
+</span>
+</div>
+<div class="entry">
+<p class="partial_entry">
+Not a review YET, just a comment on how excited my husband and I are because we will be staying here later this month for our 30th Wedding Anniversary. The last time we visited Singapore we saw this icon being built and then we have been following its progress ever since. I am beyond excited to be swimming in the...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259180937 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259180937', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+<div class="wrap">
+<div class="helpful " id="helpfulq259180937_collapsed">
+<span class="isHelpful">Was this review helpful?</span>
+<span class="tgt_helpfulq259180937 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1GII26mbqgqguuuxizSxiniaxityqgqWQQoqnQQeVsSVuqHyXAdX3oqHMUkkKkAvqHxfqHDJESCJQQoqnQQ7JgQQoqnQQhJCMtqHhSCyJ2iEVxiGIac6XoXmqoTpcXoAUvKAmk0tEn1XoAUvKAmk0zH1XAdX3o0pSM1mbUUUb3omfbqn3qnfxMAxMzsfvvfvzsKKK7xMmA0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span>
+<span class="sprite-grayArrowLeft"></span>
+<span class="numHlp"><span class="numHlpIn">1</span></span>
+</div>
+<div class="wrap reportProblem">
+<span class="problem collapsed taLnk" id="ReportIAP_259180937" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '259180937'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
+<span class="hidden ulBlueLinks">Problem with this review?</span>
+<img alt="" height="14" id="lazyload_1669443148_28" width="13"/>
+</span>
+</div> </div>
+</div>
+</div> </div> </div>
+</div>
+<div class="reviewSelector " id="review_259152159">
+<div class="review basic_review inlineReviewUpdate provider0 newFlag">
+<div class="col1of2">
+<div class="member_info">
+<div class="memberOverlayLink" id="UID_C130CED6F6D416AB6AF644E9270CB4C4-SRC_259152159" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
+<div class="avatar profile_C130CED6F6D416AB6AF644E9270CB4C4 ">
+<a onclick="">
+<img class="avatar potentialFacebookAvatar avatarGUID:C130CED6F6D416AB6AF644E9270CB4C4" height="74" id="lazyload_1669443148_29" width="74"/>
+</a>
+</div>
+<div class="username mo">
+<span class="expand_inline scrname hvrIE6 mbrName_C130CED6F6D416AB6AF644E9270CB4C4" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">Harv and Les C</span>
+</div>
+</div>
+<div class="location">
+Washington DC, District of Columbia
+</div>
+</div>
+<div class="memberBadging">
+<div class="totalReviewBadge badge no_cpu" id="UID_C130CED6F6D416AB6AF644E9270CB4C4-CONT" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
+<div class="reviewerTitle">Top Contributor</div>
+<img alt="216 reviews" class="icon lazy badge_topcontributor sprite-badge_topcontributor" height="24" id="lazyload_1669443148_30" width="25"/>
+<span class="badgeText">216 reviews</span>
+<div class="contributionReviewBadge">
+<img alt="" class="icon lazy badge_hotels_3rd sprite-badge_hotels_3rd" height="24" id="lazyload_1669443148_31" width="25"/>
+<span class="badgeText">73 hotel reviews</span>
+</div> </div>
+<div class="helpfulVotesBadge badge no_cpu" id="UID_C130CED6F6D416AB6AF644E9270CB4C4-HV" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
+<img alt="312 helpful votes" class="icon lazy badge_helpful sprite-badge_helpful" height="24" id="lazyload_1669443148_32" width="25"/>
+<span class="badgeText">312 helpful votes</span>
+</div>
+</div>
+</div>
+<div class="col2of2">
+<div class="innerBubble">
+<div class="wrap">
+<div class="quote isNew">
+<a href="/ShowUserReviews-g294265-d1770798-r259152159-Marina_Bay_Sands-Singapore.html#CHECK_RATES_CONT" id="rn259152159" onclick="ta.setEvtCookie('Reviews','title','',0,this.href); ta.util.cookie.setPIDCookie('2246')">“<span class="noQuotes">Unique Resort Property</span>”</a>
+</div>
+<div class="rating reviewItemInline">
+<span class="rate sprite-rating_s rating_s">
+<img alt="5 of 5 stars" class="sprite-rating_s_fill rating_s_fill s50" src="http://e2.tacdn.com/img2/x.gif">
+</img></span>
+<span class="ratingDate relativeDate" title="13 March 2015">Reviewed 2 days ago
+<span class="new">NEW</span>
+</span>
+</div>
+<div class="entry">
+<p class="partial_entry">
+If first impressions matter then this unique property has it all!
+Driving in from the airport the stunning architecture is clearly visible and so outstanding.
+We had read many reviews on TripAdvisor (which we love) and had cleaned a lot of good advice from many contributors, thank you! We had purposed to get into Tower One rather than the others...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259152159 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259152159', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+<div class="wrap">
+<div class="helpful " id="helpfulq259152159_collapsed">
+<span class="isHelpful">Was this review helpful?</span>
+<span class="tgt_helpfulq259152159 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1GII26mbqgqguuuxizSxiniaxityqgqWQQoqnQQeVsSVuqHyXAdX3oqHMUkkKkAvqHxfqHDJESCJQQoqnQQ7JgQQoqnQQhJCMtqHhSCyJ2iEVxiGIac6XoXmqoTpcXoAUoXUoA0tEn1XoAUoXUoA0zH1XAdX3o0pSM1fUmKfzsxM3qn3xMdU3b73bqn3ddzsAXkKf7dfd0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span>
+<span class="sprite-grayArrowLeft"></span>
+<span class="numHlp"><span class="numHlpIn">2</span></span>
+</div>
+<div class="wrap reportProblem">
+<span class="problem collapsed taLnk" id="ReportIAP_259152159" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '259152159'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
+<span class="hidden ulBlueLinks">Problem with this review?</span>
+<img alt="" height="14" id="lazyload_1669443148_33" width="13"/>
+</span>
+</div> </div>
+</div>
+</div> </div> </div>
+</div>
+<div class="reviewSelector " id="review_259052618">
+<div class="review basic_review inlineReviewUpdate provider0 newFlag">
+<div class="col1of2">
+<div class="member_info">
+<div class="memberOverlayLink" id="UID_D520DE3184709143097EC6088FC0858F-SRC_259052618" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
+<div class="avatar profile_D520DE3184709143097EC6088FC0858F ">
+<a onclick="">
+<img class="avatar potentialFacebookAvatar avatarGUID:D520DE3184709143097EC6088FC0858F" height="74" id="lazyload_1669443148_34" width="74"/>
+</a>
+</div>
+<div class="username mo">
+<span class="expand_inline scrname hvrIE6 mbrName_D520DE3184709143097EC6088FC0858F" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">Tineeee</span>
+</div>
+</div>
+<div class="location">
+</div>
+</div>
+<div class="memberBadging">
+<div class="totalReviewBadge badge no_cpu" id="UID_D520DE3184709143097EC6088FC0858F-CONT" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -25, -50);">
+<span class="badgeText">1 review</span>
+</div>
+</div>
+</div>
+<div class="col2of2">
+<div class="innerBubble">
+<div class="wrap">
+<div class="quote isNew">
+<a href="/ShowUserReviews-g294265-d1770798-r259052618-Marina_Bay_Sands-Singapore.html#CHECK_RATES_CONT" id="rn259052618" onclick="ta.setEvtCookie('Reviews','title','',0,this.href); ta.util.cookie.setPIDCookie('2246')">“<span class="noQuotes">Best Hotel in Singapore</span>”</a>
+</div>
+<div class="rating reviewItemInline">
+<span class="rate sprite-rating_s rating_s">
+<img alt="5 of 5 stars" class="sprite-rating_s_fill rating_s_fill s50" src="http://e2.tacdn.com/img2/x.gif">
+</img></span>
+<span class="ratingDate relativeDate" title="12 March 2015">Reviewed 2 days ago
+<span class="new">NEW</span>
+</span>
+<a class="viaMobile sprite-grayPhone" href="/apps" onclick="ta.util.cookie.setPIDCookie(24687)" target="_blank">via mobile</a>
+</div>
+<div class="entry">
+<p class="partial_entry">
+Wow!! Fantastic Hotel, beautiful rooms, the roof pool is amazing!!! Wifi is superb! Would definetly recomend this Hotel:) Food is great and shopping center in the same building. Taxi is always at the Hotel.
+</p>
+</div>
+<div class="wrap">
+<div class="helpful " id="helpfulq259052618_collapsed">
+<span class="isHelpful">Was this review helpful?</span>
+<span class="tgt_helpfulq259052618 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1GII26mbqgqguuuxizSxiniaxityqgqWQQoqnQQeVsSVuqHyXAdX3oqHMUkkKkAvqHxfqHDJESCJQQoqnQQ7JgQQoqnQQhJCMtqHhSCyJ2iEVxiGIac6XoXmqoTpcXoAKoX3Uv0tEn1XoAKoX3Uv0zH1XAdX3o0pSM1xMoXKxMzsmUvdkKAUdmKAkzsf3KvvqnfKvovqn0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span>
+</div>
+<div class="wrap reportProblem">
+<span class="problem collapsed taLnk" id="ReportIAP_259052618" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '259052618'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
+<span class="hidden ulBlueLinks">Problem with this review?</span>
+<img alt="" height="14" id="lazyload_1669443148_35" width="13"/>
+</span>
+</div> </div>
+<div class="mgrRspnInline">
+<div class="header">
+Pek_ChinSiong, Executive Director of Hotel Operations at Marina Bay Sands, responded to this review
+</div>
+<p class="partial_entry">
+<span id="response_259052618">
+Dear Tineeee,
+Thank you for taking the time to provide us with your review. I am delighted to hear that you had a great stay with us at Marina Bay Sands, enjoying your time in your appointed accommodations and time at the Sands SkyPark infinity pool. I look forward to welcoming you back again soon.
+</span>
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259052618 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259052618', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+</div>
+</div> </div> </div>
+</div>
+<div class="reviewSelector " id="review_259039071">
+<div class="review basic_review inlineReviewUpdate provider0 newFlag">
+<div class="col1of2">
+<div class="member_info">
+<div class="memberOverlayLink" id="UID_77398F21DF329E815B1CFD1435412F20-SRC_259039071" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
+<div class="avatar profile_77398F21DF329E815B1CFD1435412F20 ">
+<a onclick="">
+<img class="avatar potentialFacebookAvatar avatarGUID:77398F21DF329E815B1CFD1435412F20" height="74" id="lazyload_1669443148_36" width="74"/>
+</a>
+</div>
+<div class="username mo">
+<span class="expand_inline scrname hvrIE6 mbrName_77398F21DF329E815B1CFD1435412F20" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">Yna1988</span>
+</div>
+</div>
+<div class="location">
+</div>
+</div>
+<div class="memberBadging">
+<div class="totalReviewBadge badge no_cpu" id="UID_77398F21DF329E815B1CFD1435412F20-CONT" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
+<div class="reviewerTitle">Reviewer</div>
+<img alt="5 reviews" class="icon lazy badge_reviewer sprite-badge_reviewer" height="24" id="lazyload_1669443148_37" width="25"/>
+<span class="badgeText">5 reviews</span>
+<div class="contributionReviewBadge">
+<img alt="" class="icon lazy badge_hotels_1st sprite-badge_hotels_1st" height="24" id="lazyload_1669443148_38" width="25"/>
+<span class="badgeText">5 hotel reviews</span>
+</div> </div>
+</div>
+</div>
+<div class="col2of2">
+<div class="innerBubble">
+<div class="wrap">
+<div class="quote isNew">
+<a href="/ShowUserReviews-g294265-d1770798-r259039071-Marina_Bay_Sands-Singapore.html#CHECK_RATES_CONT" id="rn259039071" onclick="ta.setEvtCookie('Reviews','title','',0,this.href); ta.util.cookie.setPIDCookie('2246')">“<span class="noQuotes">Relaxing pool amidst a busy city</span>”</a>
+</div>
+<div class="rating reviewItemInline">
+<span class="rate sprite-rating_s rating_s">
+<img alt="4 of 5 stars" class="sprite-rating_s_fill rating_s_fill s40" src="http://e2.tacdn.com/img2/x.gif">
+</img></span>
+<span class="ratingDate relativeDate" title="12 March 2015">Reviewed 2 days ago
+<span class="new">NEW</span>
+</span>
+<a class="viaMobile sprite-grayPhone" href="/apps" onclick="ta.util.cookie.setPIDCookie(24687)" target="_blank">via mobile</a>
+</div>
+<div class="entry">
+<p class="partial_entry">
+Stayed with my friend for 2 nights last year and i really enjoyed. After being out the whole day, we spent the night going around the shoppes and swimming at the infinity pool. I really loved the view from the pool. the pool maybe small but the top floor is really the selling factor of this hotel. Wish i could...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259039071 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259039071', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+<div class="wrap">
+<div class="helpful " id="helpfulq259039071_collapsed">
+<span class="isHelpful">Was this review helpful?</span>
+<span class="tgt_helpfulq259039071 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1GII26mbqgqguuuxizSxiniaxityqgqWQQoqnQQeVsSVuqHyXAdX3oqHMUkkKkAvqHxfqHDJESCJQQoqnQQ7JgQQoqnQQhJCMtqHhSCyJ2iEVxiGIac6XoXmqoTpcXoAKmAKkU0tEn1XoAKmAKkU0zH1XAdX3o0pSM1kkmAvqnXUxMqnmXAzsvUo7UfqnxMUdmodUXqnXK0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span>
+</div>
+<div class="wrap reportProblem">
+<span class="problem collapsed taLnk" id="ReportIAP_259039071" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '259039071'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
+<span class="hidden ulBlueLinks">Problem with this review?</span>
+<img alt="" height="14" id="lazyload_1669443148_39" width="13"/>
+</span>
+</div> </div>
+<div class="mgrRspnInline">
+<div class="header">
+Pek_ChinSiong, Executive Director of Hotel Operations at Marina Bay Sands, responded to this review
+</div>
+<p class="partial_entry">
+<span id="response_259039071">
+Thank you for your wonderful review Yna1988.
+I am glad to know that you had an enjoyable stay at Marina Bay Sands, especially your time at the Sands SkyPark infinity pool and The Shoppes. I look forward to welcoming you and your friends back for more great stays.
+</span>
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259039071 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259039071', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+</div>
+</div> </div> </div>
+</div>
+<div class="reviewSelector " id="review_259031598">
+<div class="review basic_review inlineReviewUpdate provider0 newFlag">
+<div class="col1of2">
+<div class="member_info">
+<div class="memberOverlayLink" id="UID_452D65DA27738948E88C3CA2ADDB3EBF-SRC_259031598" onmouseover="ta.trackEventOnPage('Reviews','show_reviewer_info_window','user_name_photo'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', 0, (new Element(this)).getElement('.avatar')&amp;&amp;(new Element(this)).getElement('.avatar').getStyle('border-radius')=='100%'?-10:0);">
+<div class="avatar profile_452D65DA27738948E88C3CA2ADDB3EBF ">
+<a onclick="">
+<img class="avatar potentialFacebookAvatar avatarGUID:452D65DA27738948E88C3CA2ADDB3EBF" height="74" id="lazyload_1669443148_40" width="74"/>
+</a>
+</div>
+<div class="username mo">
+<span class="expand_inline scrname hvrIE6 mbrName_452D65DA27738948E88C3CA2ADDB3EBF" onclick="ta.trackEventOnPage('Reviews', 'show_reviewer_info_window', 'user_name_name_click')">Antala84</span>
+</div>
+</div>
+<div class="location">
+Espoo, Finland
+</div>
+</div>
+<div class="memberBadging">
+<div class="totalReviewBadge badge no_cpu" id="UID_452D65DA27738948E88C3CA2ADDB3EBF-CONT" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','review_count'); ta.util.cookie.setPIDCookie('15984'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -10, -50);">
+<div class="reviewerTitle">Contributor</div>
+<img alt="16 reviews" class="icon lazy badge_contributor sprite-badge_contributor" height="24" id="lazyload_1669443148_41" width="25"/>
+<span class="badgeText">16 reviews</span>
+<div class="contributionReviewBadge">
+<img alt="" class="icon lazy badge_hotels_1st sprite-badge_hotels_1st" height="24" id="lazyload_1669443148_42" width="25"/>
+<span class="badgeText">4 hotel reviews</span>
+</div> </div>
+<div class="helpfulVotesBadge badge no_cpu" id="UID_452D65DA27738948E88C3CA2ADDB3EBF-HV" onclick="ta.trackEventOnPage('Reviews','show_reviewer_info_window','helpful_count'); ta.util.cookie.setPIDCookie('15983'); ta.call('ta.overlays.Factory.memberOverlayWOffset', event, this, 's3 dg rgba_gry update2012', -22, -50);">
+<img alt="10 helpful votes" class="icon lazy badge_helpful sprite-badge_helpful" height="24" id="lazyload_1669443148_43" width="25"/>
+<span class="badgeText">10 helpful votes</span>
+</div>
+</div>
+</div>
+<div class="col2of2">
+<div class="innerBubble">
+<div class="wrap">
+<div class="quote isNew">
+<a href="/ShowUserReviews-g294265-d1770798-r259031598-Marina_Bay_Sands-Singapore.html#CHECK_RATES_CONT" id="rn259031598" onclick="ta.setEvtCookie('Reviews','title','',0,this.href); ta.util.cookie.setPIDCookie('2246')">“<span class="noQuotes">A must experience in Singapore</span>”</a>
+</div>
+<div class="rating reviewItemInline">
+<span class="rate sprite-rating_s rating_s">
+<img alt="5 of 5 stars" class="sprite-rating_s_fill rating_s_fill s50" src="http://e2.tacdn.com/img2/x.gif">
+</img></span>
+<span class="ratingDate relativeDate" title="12 March 2015">Reviewed 3 days ago
+<span class="new">NEW</span>
+</span>
+</div>
+<div class="entry">
+<p class="partial_entry">
+Stayes for two nights in a club room and the experience was worth the money. Room itself was way smaller than expected, but otherwise nice. Garden view with all the ships at the sea also nice.
+Club lounge was a nice touch as well, maybe not as relaxed and "loungy" as expected, bit more of a snack restaurant. Infinity pool...
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259031598 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259031598', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+<div class="wrap">
+<div class="helpful " id="helpfulq259031598_collapsed">
+<span class="isHelpful">Was this review helpful?</span>
+<span class="tgt_helpfulq259031598 rndBtn rndBtnGreen rndBtnSmall" onclick="ta.util.cookie.setPIDCookie(5034); ta.call('ta.servlet.Reviews.helpfulVoteHandlerOb', event, this, 'LeJIVqd4EVIpECri1GII26mbqgqguuuxizSxiniaxityqgqWQQoqnQQeVsSVuqHyXAdX3oqHMUkkKkAvqHxfqHDJESCJQQoqnQQ7JgQQoqnQQhJCMtqHhSCyJ2iEVxiGIac6XoXmqoTpcXoAKmUoAv0tEn1XoAKmUoAv0zH1XAdX3o0pSM1doXxM3oxMbXkkmvAdvzsvvfmfbXbxMxM7mzs7qn0EJIVqiJcpV1U');; ta.trackEventOnPage('helpful_vote_button', 'Yes')">Yes</span>
+<span class="sprite-grayArrowLeft"></span>
+<span class="numHlp"><span class="numHlpIn">1</span></span>
+</div>
+<div class="wrap reportProblem">
+<span class="problem collapsed taLnk" id="ReportIAP_259031598" onclick="ta.trackEventOnPage('Reviews', 'report_problem', 'click'); ta.call('ta.overlays.Factory.iapFlyout', event, this, {voteContentType:'USERREVIEW', contentId: '259031598'})" onmouseover="ta.trackEventOnPage('Reviews', 'report_problem', 'hover_over_flag'); this.onmouseover=null">
+<span class="hidden ulBlueLinks">Problem with this review?</span>
+<img alt="" height="14" id="lazyload_1669443148_44" width="13"/>
+</span>
+</div> </div>
+<div class="mgrRspnInline">
+<div class="header">
+Pek_ChinSiong, Executive Director of Hotel Operations at Marina Bay Sands, responded to this review
+</div>
+<p class="partial_entry">
+<span id="response_259031598">
+Thank you for sharing your wonderful review with us, Antala84.
+I am delighted to hear that you enjoyed your stay in one of our garden view Club rooms, as well as your time at the Sands SkyPark infinity pool and privileges at The Club. Service is a top priority for us and your compliments will certainly be an added boost...
+</span>
+<span class="partnerRvw">
+<span class="taLnk hvrIE6 tr259031598 moreLink ulBlueLinks" onclick="ta.util.cookie.setPIDCookie(2247);ta.call('ta.servlet.Reviews.expandReviews',event,this,'review_259031598', '1', 2247)">
+More  </span>
+<img alt="" class="textArrow_more sprite-text_arrow_dropdown_blu" height="11" src="http://e2.tacdn.com/img2/x.gif" width="10">
+</img></span>
+</p>
+</div>
+</div>
+</div> </div> </div>
+</div>
